@@ -5,7 +5,6 @@ vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd
 vendor/firmware/bcm4358A0_V0033.0000.hcd
 
 # GPS
--priv-app/com.qualcomm.location/com.qualcomm.location.apk
 etc/permissions/com.qualcomm.location.xml
 lib/libloc_api_v02.so
 vendor/lib/hw/flp.default.so
